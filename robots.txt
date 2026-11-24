@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fachrizalabdullah.github.io/bata-merah-cap-gt/sitemap.xml
+Sitemap: https://fachrizalabdullah.github.io/BATA-MERAH-CAP-GT/sitemap.xml
